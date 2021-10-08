@@ -1,0 +1,10 @@
+{
+    "name": "NewAssembly",
+    "references": [
+        "PlayerAD"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
